@@ -37,9 +37,10 @@ while IFS= read -r pattern; do
     fi
 
     # Checking how many instances of common annotation patterns are found in the .ffn-file.
-    if [[ $pattern == "tRNA-...(...)$" ]] || [[ $pattern == "rRNA" ]] || [[ $pattern == "hypothetical protein" ]] || [[ $pattern == "putative protein" ]]; then
+    if [[ $pattern == "tRNA-...(...)$" ]] || [[ $pattern == "transfer-messenger RNA" ]] || [[ $pattern == "hypothetical protein" ]] || [[ $pattern == "putative protein" ]]; then
         if [[ $pattern == "tRNA-...(...)$" ]]; then
             echo -e "tRNA\t${NumberOfFeature}" >> ${RESULTS_PATH}/${BASE_DATE}_AnnotationSummary.tsv
+
         else
             echo -e "${pattern}\t${NumberOfFeature}" >> ${RESULTS_PATH}/${BASE_DATE}_AnnotationSummary.tsv
         fi
