@@ -12,6 +12,7 @@
 -"ProteinOfInterestFinder", bash-script for matching keywords to gene names
 -"PatternsOfInterest", text-file with keywords for use with "ProteinOfInterestFinder"
 -"CreateCuratedRef", bash-script for trying to automate creation of a curated annotation dataset. Currently doesn't work.
+-"25_10_2025_ProteinsOfInterest.txt", output of 'ProteinOfInterestFinder.sh"
 
 # Created by Alvin Sundqvist
 # With acknowledgements to:
