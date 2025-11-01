@@ -1,0 +1,62 @@
+glycoside
+glucosidase
+glycoside hydrolase
+endoglucanase
+cellobiohydrolase
+glucanase
+glucosyl
+glycosyltransferase
+polysaccharide lyase
+polysaccharide
+lyase
+monosaccharide
+oligosaccharide
+disaccharide
+carbohydrate esterase
+carbohydrate-binding
+secretion system
+pectin
+galacturonic acid
+pectinase
+glycogen
+glycogen phosphorylase
+starch
+maltose
+maltase
+amylopectin
+amylose
+amylase
+galactogen
+galactose
+galactosyl
+galactase
+inulin
+inulinase
+cellulose
+cellulase
+Arabinoxylan
+arabinose
+arabinoxylanase
+xylan
+xylose
+xylanase
+chitin
+chitosan
+chitinases
+N-acetylglucosamine
+dolichol
+manose
+mannosyl
+sialic acid
+sialic
+sialyl
+alginate
+alginase
+sus.
+chrysolaminarin
+tRNA-...(...)$
+rRNA
+23S rRNA
+16S rRNA
+putative protein
+hypothetical protein
