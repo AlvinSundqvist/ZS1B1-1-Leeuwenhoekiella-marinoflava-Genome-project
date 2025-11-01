@@ -1,0 +1,1645 @@
+Protein names matching pattern of interest:
+
+'glycoside': 20 hits in annotated ZS1B1-1 genome
+>Leeuwenhoekiella_marinoflava_00252 glycoside hydrolase family 130 protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00256 glycoside hydrolase 100 family protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00931 glycoside hydrolase 5 family protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00932 glycoside hydrolase family 26 protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00936 glycoside hydrolase family 26 protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00938 glycoside hydrolase family 5 protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00942 glycoside hydrolase family 27 protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00944 glycoside hydrolase family 9 protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00959 glycoside hydrolase family 13 protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01207 glycoside hydrolase family 3 protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01733 glycoside hydrolase family 2 protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01754 glycoside hydrolase family 76 protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01764 glycoside hydrolase family 43 protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01942 glycoside hydrolase family 2 TIM barrel-domain containing protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02256 glycoside hydrolase family 43 protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02766 glycoside hydrolase family 28 protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02767 glycoside hydrolase family 140 protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03262 glycoside hydrolase family 97 protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03545 glycoside hydrolase family 16 protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_04138 glycoside hydrolase family 20 protein [Leeuwenhoekiella marinoflava]
+
+'glucosidase': 10 hits in annotated ZS1B1-1 genome
+>Leeuwenhoekiella_marinoflava_00361 beta-glucosidase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00930 beta-glucosidase BglX [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01209 beta-glucosidase family protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01757 alpha-glucosidase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01969 GH15 family glucan-1,4-alpha-glucosidase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02152 alpha-glucosidase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02505 GH15 family glucan-1,4-alpha-glucosidase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03546 beta-glucosidase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03562 beta-glucosidase-like glycosyl hydrolase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_04134 beta-glucosidase [Leeuwenhoekiella marinoflava]
+
+'glycoside hydrolase': 20 hits in annotated ZS1B1-1 genome
+>Leeuwenhoekiella_marinoflava_00252 glycoside hydrolase family 130 protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00256 glycoside hydrolase 100 family protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00931 glycoside hydrolase 5 family protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00932 glycoside hydrolase family 26 protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00936 glycoside hydrolase family 26 protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00938 glycoside hydrolase family 5 protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00942 glycoside hydrolase family 27 protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00944 glycoside hydrolase family 9 protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00959 glycoside hydrolase family 13 protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01207 glycoside hydrolase family 3 protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01733 glycoside hydrolase family 2 protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01754 glycoside hydrolase family 76 protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01764 glycoside hydrolase family 43 protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01942 glycoside hydrolase family 2 TIM barrel-domain containing protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02256 glycoside hydrolase family 43 protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02766 glycoside hydrolase family 28 protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02767 glycoside hydrolase family 140 protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03262 glycoside hydrolase family 97 protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03545 glycoside hydrolase family 16 protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_04138 glycoside hydrolase family 20 protein [Leeuwenhoekiella marinoflava]
+
+'endoglucanase': 0 hits in annotated ZS1B1-1 genome
+
+'cellobiohydrolase': 0 hits in annotated ZS1B1-1 genome
+
+'glucanase': 0 hits in annotated ZS1B1-1 genome
+
+'glucosyl': 4 hits in annotated ZS1B1-1 genome
+>Leeuwenhoekiella_marinoflava_00614 glucosylceramidase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00616 glucosylceramidase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02150 maltose alpha-D-glucosyltransferase/alpha-amylase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02672 maltose alpha-D-glucosyltransferase/alpha-amylase [Leeuwenhoekiella marinoflava]
+
+'glycosyltransferase': 44 hits in annotated ZS1B1-1 genome
+>Leeuwenhoekiella_marinoflava_00137 cellulose synthase/poly-beta-1,6-N-acetylglucosamine synthase-like glycosyltransferase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00253 glycosyltransferase family 4 protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00254 glycosyltransferase family 4 protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00257 glycosyltransferase family 4 protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00710 glycosyltransferase involved in cell wall biosynthesis [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00712 glycosyltransferase involved in cell wall biosynthesis [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01177 TIGR04282 family arsenosugar biosynthesis glycosyltransferase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01467 glycosyltransferase involved in cell wall biosynthesis [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01470 glycosyltransferase family 2 protein [Leeuwenhoekiella sp. ZYFB001]
+>Leeuwenhoekiella_marinoflava_01472 glycosyltransferase family 2 protein [Leeuwenhoekiella palythoae]
+>Leeuwenhoekiella_marinoflava_01473 glycosyltransferase involved in cell wall biosynthesis [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01474 glycosyltransferase family A protein [Leeuwenhoekiella palythoae]
+>Leeuwenhoekiella_marinoflava_01475 glycosyltransferase family 2 protein [Leeuwenhoekiella sp. ZYFB001]
+>Leeuwenhoekiella_marinoflava_01477 glycosyltransferase family A protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01478 glycosyltransferase family A protein [Leeuwenhoekiella sp. ZYFB001]
+>Leeuwenhoekiella_marinoflava_01479 UDP-glycosyltransferase [Leeuwenhoekiella palythoae]
+>Leeuwenhoekiella_marinoflava_01481 glycosyltransferase family 2 protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01491 glycosyltransferase involved in cell wall biosynthesis [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01492 glycosyltransferase family 4 protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01493 glycosyltransferase family 2 protein [Leeuwenhoekiella palythoae]
+>Leeuwenhoekiella_marinoflava_01494 glycosyltransferase family 2 protein [Leeuwenhoekiella palythoae]
+>Leeuwenhoekiella_marinoflava_01495 glycosyltransferase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01496 glycosyltransferase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01498 glycosyltransferase involved in cell wall biosynthesis [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01653 glycosyltransferase family 2 protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01654 glycosyltransferase family 4 protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01655 glycosyltransferase family 4 protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01658 glycosyltransferase family 2 protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01659 glycosyltransferase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01662 glycosyltransferase family 2 protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01882 glycosyltransferase involved in cell wall biosynthesis [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01883 glycosyltransferase involved in cell wall biosynthesis [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01885 glycosyltransferase involved in cell wall biosynthesis [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02035 GT2 family glycosyltransferase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02297 glycosyltransferase involved in cell wall biosynthesis [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02729 WecB/TagA/CpsF family glycosyltransferase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02732 glycosyltransferase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02734 glycosyltransferase family 4 protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02963 GT2 family glycosyltransferase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03187 glycosyltransferase involved in cell wall biosynthesis [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03476 MULTISPECIES: glycosyltransferase family 39 protein [Leeuwenhoekiella]
+>Leeuwenhoekiella_marinoflava_03928 glycosyltransferase family 4 protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_04090 glycosyltransferase involved in cell wall biosynthesis [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_04093 4-amino-4-deoxy-L-arabinose transferase-like glycosyltransferase [Leeuwenhoekiella marinoflava]
+
+'polysaccharide lyase': 0 hits in annotated ZS1B1-1 genome
+
+'polysaccharide': 18 hits in annotated ZS1B1-1 genome
+>Leeuwenhoekiella_marinoflava_01456 lipopolysaccharide export system ATP-binding protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01463 lipopolysaccharide transport system permease protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01465 lipopolysaccharide transport system ATP-binding protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01499 exopolysaccharide biosynthesis polyprenyl glycosylphosphotransferase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01650 lipopolysaccharide biosynthesis protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01651 lipopolysaccharide biosynthesis protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01652 polysaccharide pyruvyl transferase family protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01660 WcaF family extracellular polysaccharide biosynthesis acetyltransferase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01664 polysaccharide export outer membrane protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01880 PST family polysaccharide transporter [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02728 exopolysaccharide biosynthesis polyprenyl glycosylphosphotransferase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02733 polysaccharide pyruvyl transferase family protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02736 polysaccharide pyruvyl transferase family protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02746 polysaccharide biosynthesis/export family protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03186 lipopolysaccharide kinase (Kdo/WaaP) family protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03553 polysaccharide biosynthesis protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03588 lipopolysaccharide export system permease protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03995 lipopolysaccharide assembly protein [Leeuwenhoekiella marinoflava]
+
+'lyase': 18 hits in annotated ZS1B1-1 genome
+>Leeuwenhoekiella_marinoflava_00189 selenocysteine lyase/cysteine desulfurase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00531 cystathionine gamma-lyase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00786 DNA repair photolyase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00891 tyrosine lyase ThiH [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00983 cysteine desulfurase/selenocysteine lyase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01214 catechol 2,3-dioxygenase-like lactoylglutathione lyase family enzyme [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01287 selenocysteine lyase/cysteine desulfurase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01420 deoxyribodipyrimidine photolyase-related protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01421 deoxyribodipyrimidine photo-lyase (single-stranded DNA-specific) [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01720 rhamnogalacturonan endolyase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01895 cystathionine beta-lyase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02201 adenylosuccinate lyase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02302 hydroxymethylglutaryl-CoA lyase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02829 PelA/Pel-15E family pectate lyase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03094 argininosuccinate lyase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03104 L-threonine ammonia-lyase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03298 deoxyribodipyrimidine photo-lyase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03714 pectate lyase-like protein [Leeuwenhoekiella marinoflava]
+
+'monosaccharide': 0 hits in annotated ZS1B1-1 genome
+
+'oligosaccharide': 3 hits in annotated ZS1B1-1 genome
+>Leeuwenhoekiella_marinoflava_00737 MULTISPECIES: oligosaccharide flippase family protein [Leeuwenhoekiella]
+>Leeuwenhoekiella_marinoflava_01103 maltose/moltooligosaccharide transporter [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_04142 beta-1,4-mannooligosaccharide/beta-1,4-mannosyl-N-acetylglucosamine phosphorylase [Leeuwenhoekiella marinoflava]
+
+'disaccharide': 2 hits in annotated ZS1B1-1 genome
+>Leeuwenhoekiella_marinoflava_01429 tetraacyldisaccharide 4'-kinase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_04018 lipid-A-disaccharide synthase [Leeuwenhoekiella marinoflava]
+
+'carbohydrate esterase': 0 hits in annotated ZS1B1-1 genome
+
+'carbohydrate-binding': 0 hits in annotated ZS1B1-1 genome
+
+'secretion system': 8 hits in annotated ZS1B1-1 genome
+>Leeuwenhoekiella_marinoflava_00528 putative secreted protein (Por secretion system target) [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00798 putative secreted protein (Por secretion system target) [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01134 type IX secretion system membrane protein PorP/SprF [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01583 type IX secretion system PorP/SprF family membrane protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02179 putative secreted protein (Por secretion system target) [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02239 type IX secretion system PorP/SprF family membrane protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03696 type IX secretion system PorP/SprF family membrane protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03951 putative secreted protein (Por secretion system target) [Leeuwenhoekiella marinoflava]
+
+'pectin': 4 hits in annotated ZS1B1-1 genome
+>Leeuwenhoekiella_marinoflava_00298 pectinesterase family protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02830 pectinesterase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02832 pectin methylesterase-like acyl-CoA thioesterase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03711 pectin methylesterase-like acyl-CoA thioesterase [Leeuwenhoekiella marinoflava]
+
+'galacturonic acid': 0 hits in annotated ZS1B1-1 genome
+
+'pectinase': 0 hits in annotated ZS1B1-1 genome
+
+'glycogen': 0 hits in annotated ZS1B1-1 genome
+
+'glycogen phosphorylase': 0 hits in annotated ZS1B1-1 genome
+
+'starch': 30 hits in annotated ZS1B1-1 genome
+>Leeuwenhoekiella_marinoflava_00275 putative outer membrane starch-binding protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00349 SusD-like starch-binding protein associating with outer membrane [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00357 putative outer membrane starch-binding protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00490 starch synthase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00618 putative outer membrane starch-binding protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00849 SusD-like starch-binding protein associating with outer membrane [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01279 SusD-like starch-binding protein associating with outer membrane [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01320 SusD-like starch-binding protein associating with outer membrane [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01708 putative outer membrane starch-binding protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01710 SusD-like starch-binding protein associating with outer membrane [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01793 SusD-like starch-binding protein associating with outer membrane [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01829 putative outer membrane starch-binding protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01833 putative outer membrane starch-binding protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01874 putative outer membrane starch-binding protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01920 SusD-like starch-binding protein associating with outer membrane [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01949 putative outer membrane starch-binding protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01954 putative outer membrane starch-binding protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02008 putative outer membrane starch-binding protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02251 putative outer membrane starch-binding protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02258 putative outer membrane starch-binding protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02771 putative outer membrane starch-binding protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02812 starch synthase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02836 putative outer membrane starch-binding protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02867 SusD-like starch-binding protein associating with outer membrane [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03549 putative outer membrane starch-binding protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03730 putative outer membrane starch-binding protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03734 putative outer membrane starch-binding protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03808 putative outer membrane starch-binding protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03906 SusD-like starch-binding protein associating with outer membrane [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_04108 putative outer membrane starch-binding protein [Leeuwenhoekiella marinoflava]
+
+'maltose': 5 hits in annotated ZS1B1-1 genome
+>Leeuwenhoekiella_marinoflava_01103 maltose/moltooligosaccharide transporter [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02149 alpha-1,4-glucan:maltose-1-phosphate maltosyltransferase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02150 maltose alpha-D-glucosyltransferase/alpha-amylase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02672 maltose alpha-D-glucosyltransferase/alpha-amylase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_04115 maltose phosphorylase [Leeuwenhoekiella marinoflava]
+
+'maltase': 0 hits in annotated ZS1B1-1 genome
+
+'amylopectin': 0 hits in annotated ZS1B1-1 genome
+
+'amylose': 0 hits in annotated ZS1B1-1 genome
+
+'amylase': 7 hits in annotated ZS1B1-1 genome
+>Leeuwenhoekiella_marinoflava_00226 alpha-amylase family glycosyl hydrolase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00358 glucoamylase family protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00359 glucoamylase family protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00958 alpha-amylase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02150 maltose alpha-D-glucosyltransferase/alpha-amylase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02431 outer membrane putative beta-barrel porin/alpha-amylase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02672 maltose alpha-D-glucosyltransferase/alpha-amylase [Leeuwenhoekiella marinoflava]
+
+'galactogen': 0 hits in annotated ZS1B1-1 genome
+
+'galactose': 4 hits in annotated ZS1B1-1 genome
+>Leeuwenhoekiella_marinoflava_00207 dTDP-4-amino-4,6-dideoxygalactose transaminase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01879 dTDP-4-amino-4,6-dideoxygalactose transaminase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02886 galactose oxidase-like protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03554 dTDP-4-amino-4,6-dideoxygalactose transaminase [Leeuwenhoekiella marinoflava]
+
+'galactosyl': 1 hits in annotated ZS1B1-1 genome
+>Leeuwenhoekiella_marinoflava_03184 galactosyltransferase-like protein [Leeuwenhoekiella marinoflava]
+
+'galactase': 0 hits in annotated ZS1B1-1 genome
+
+'inulin': 0 hits in annotated ZS1B1-1 genome
+
+'inulinase': 0 hits in annotated ZS1B1-1 genome
+
+'cellulose': 1 hits in annotated ZS1B1-1 genome
+>Leeuwenhoekiella_marinoflava_00137 cellulose synthase/poly-beta-1,6-N-acetylglucosamine synthase-like glycosyltransferase [Leeuwenhoekiella marinoflava]
+
+'cellulase': 2 hits in annotated ZS1B1-1 genome
+>Leeuwenhoekiella_marinoflava_00315 cellulase (glycosyl hydrolase family 5) [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03260 cellulase family glycosylhydrolase [Leeuwenhoekiella marinoflava]
+
+'Arabinoxylan': 0 hits in annotated ZS1B1-1 genome
+
+'arabinose': 9 hits in annotated ZS1B1-1 genome
+>Leeuwenhoekiella_marinoflava_00141 4-amino-4-deoxy-L-arabinose transferase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00354 putative MFS family arabinose efflux permease [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01435 putative MFS family arabinose efflux permease [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01459 arabinose-5-phosphate isomerase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01480 Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+>Leeuwenhoekiella_marinoflava_01532 DHA1 family arabinose polymer transporter-like MFS transporter [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01964 L-arabinose isomerase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02577 putative MFS family arabinose efflux permease [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_04093 4-amino-4-deoxy-L-arabinose transferase-like glycosyltransferase [Leeuwenhoekiella marinoflava]
+
+'arabinoxylanase': 0 hits in annotated ZS1B1-1 genome
+
+'xylan': 2 hits in annotated ZS1B1-1 genome
+>Leeuwenhoekiella_marinoflava_01083 peptidoglycan/xylan/chitin deacetylase (PgdA/CDA1 family) [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02762 acetyl xylan esterase AXE1 [Leeuwenhoekiella marinoflava]
+
+'xylose': 1 hits in annotated ZS1B1-1 genome
+>Leeuwenhoekiella_marinoflava_03353 xylose isomerase [Leeuwenhoekiella marinoflava]
+
+'xylanase': 0 hits in annotated ZS1B1-1 genome
+
+'chitin': 1 hits in annotated ZS1B1-1 genome
+>Leeuwenhoekiella_marinoflava_01083 peptidoglycan/xylan/chitin deacetylase (PgdA/CDA1 family) [Leeuwenhoekiella marinoflava]
+
+'chitosan': 0 hits in annotated ZS1B1-1 genome
+
+'chitinases': 0 hits in annotated ZS1B1-1 genome
+
+'N-acetylglucosamine': 11 hits in annotated ZS1B1-1 genome
+>Leeuwenhoekiella_marinoflava_00137 cellulose synthase/poly-beta-1,6-N-acetylglucosamine synthase-like glycosyltransferase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01253 UDP-N-acetylglucosamine-N-acetylmuramylpentapeptide N-acetylglucosamine transferase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01487 UDP-N-acetylglucosamine 2-epimerase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02031 UDP-N-acetylglucosamine 4-epimerase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02033 UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing) [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02166 UDP-N-acetylglucosamine diphosphorylase/glucosamine-1-phosphate N-acetyltransferase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02704 acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02705 3-hydroxyacyl-[acyl-carrier-protein] dehydratase /UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase[Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03304 UDP-N-acetylglucosamine 1-carboxyvinyltransferase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03555 UDP-N-acetylmuramyl pentapeptide phosphotransferase/UDP-N-acetylglucosamine-1-phosphate transferase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_04142 beta-1,4-mannooligosaccharide/beta-1,4-mannosyl-N-acetylglucosamine phosphorylase [Leeuwenhoekiella marinoflava]
+
+'dolichol': 1 hits in annotated ZS1B1-1 genome
+>Leeuwenhoekiella_marinoflava_00401 dolichol-phosphate mannosyltransferase [Leeuwenhoekiella marinoflava]
+
+'manose': 0 hits in annotated ZS1B1-1 genome
+
+'mannosyl': 2 hits in annotated ZS1B1-1 genome
+>Leeuwenhoekiella_marinoflava_00401 dolichol-phosphate mannosyltransferase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_04142 beta-1,4-mannooligosaccharide/beta-1,4-mannosyl-N-acetylglucosamine phosphorylase [Leeuwenhoekiella marinoflava]
+
+'sialic acid': 0 hits in annotated ZS1B1-1 genome
+
+'sialic': 0 hits in annotated ZS1B1-1 genome
+
+'sialyl': 0 hits in annotated ZS1B1-1 genome
+
+'alginate': 1 hits in annotated ZS1B1-1 genome
+>Leeuwenhoekiella_marinoflava_02801 alginate export protein [Leeuwenhoekiella marinoflava]
+
+'alginase': 0 hits in annotated ZS1B1-1 genome
+
+'sus.': 0 hits in annotated ZS1B1-1 genome
+>Leeuwenhoekiella_marinoflava_00274 TonB-linked SusC/RagA family outer membrane protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00296 RagB/SusD domain-containing protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00349 SusD-like starch-binding protein associating with outer membrane [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00350 TonB-linked SusC/RagA family outer membrane protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00356 TonB-linked SusC/RagA family outer membrane protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00427 SusD/RagB-like outer membrane lipoprotein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00619 TonB-linked SusC/RagA family outer membrane protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00849 SusD-like starch-binding protein associating with outer membrane [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00850 SusC/RagA family TonB-linked outer membrane protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00940 RagB/SusD family nutrient uptake outer membrane protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00956 RagB/SusD family nutrient uptake outer membrane protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01042 RagB/SusD family nutrient uptake outer membrane protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01171 SusD/RagB family nutrient-binding outer membrane lipoprotein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01172 TonB-linked SusC/RagA family outer membrane protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01278 TonB-linked SusC/RagA family outer membrane protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01279 SusD-like starch-binding protein associating with outer membrane [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01304 SusC/RagA family TonB-linked outer membrane protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01305 RagB/SusD family nutrient uptake outer membrane protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01320 SusD-like starch-binding protein associating with outer membrane [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01321 TonB-linked SusC/RagA family outer membrane protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01679 SusC/RagA family TonB-linked outer membrane protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01680 RagB/SusD family nutrient uptake outer membrane protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01709 TonB-linked SusC/RagA family outer membrane protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01710 SusD-like starch-binding protein associating with outer membrane [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01711 TonB-linked SusC/RagA family outer membrane protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01744 SusC/RagA family TonB-linked outer membrane protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01745 RagB/SusD family nutrient uptake outer membrane protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01752 RagB/SusD family nutrient uptake outer membrane protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01753 SusE domain-containing protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01769 RagB/SusD family nutrient uptake outer membrane protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01793 SusD-like starch-binding protein associating with outer membrane [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01794 TonB-linked SusC/RagA family outer membrane protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01828 SusC/RagA family TonB-linked outer membrane protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01834 TonB-linked SusC/RagA family outer membrane protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01875 TonB-linked SusC/RagA family outer membrane protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01920 SusD-like starch-binding protein associating with outer membrane [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01921 TonB-linked SusC/RagA family outer membrane protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01950 TonB-linked SusC/RagA family outer membrane protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01953 TonB-linked SusC/RagA family outer membrane protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02007 TonB-linked SusC/RagA family outer membrane protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02019 SusC/RagA family TonB-linked outer membrane protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02020 SusD/RagB family nutrient-binding outer membrane lipoprotein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02252 TonB-linked SusC/RagA family outer membrane protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02257 TonB-linked SusC/RagA family outer membrane protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02348 RagB/SusD family nutrient uptake outer membrane protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02349 TonB-linked SusC/RagA family outer membrane protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02364 RagB/SusD family nutrient uptake outer membrane protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02772 TonB-linked SusC/RagA family outer membrane protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02837 TonB-linked SusC/RagA family outer membrane protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02838 RagB/SusD family nutrient uptake outer membrane protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02867 SusD-like starch-binding protein associating with outer membrane [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02868 TonB-linked SusC/RagA family outer membrane protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03266 RagB/SusD family nutrient uptake outer membrane protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03272 RagB/SusD family nutrient uptake outer membrane protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03550 TonB-linked SusC/RagA family outer membrane protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03712 RagB/SusD family nutrient uptake outer membrane protein [Leeuwenhoekiella palythoae]
+>Leeuwenhoekiella_marinoflava_03713 TonB-linked SusC/RagA family outer membrane protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03729 TonB-linked SusC/RagA family outer membrane protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03733 TonB-linked SusC/RagA family outer membrane protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03807 TonB-linked SusC/RagA family outer membrane protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03905 TonB-linked SusC/RagA family outer membrane protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03906 SusD-like starch-binding protein associating with outer membrane [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03907 SusC/RagA family TonB-linked outer membrane protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03908 SusD/RagB family nutrient-binding outer membrane lipoprotein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03921 TonB-dependent SusC/RagA subfamily outer membrane receptor [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_04044 RagB/SusD family nutrient uptake outer membrane protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_04045 TonB-linked SusC/RagA family outer membrane protein [Leeuwenhoekiella marinoflava]
+
+'chrysolaminarin': 0 hits in annotated ZS1B1-1 genome
+
+'tRNA': 46 hits in annotated ZS1B1-1 genome
+>Leeuwenhoekiella_marinoflava_00002 tRNA-Ala(tgc)
+>Leeuwenhoekiella_marinoflava_00003 tRNA-Ile(gat)
+>Leeuwenhoekiella_marinoflava_00007 tRNA-Leu(tag)
+>Leeuwenhoekiella_marinoflava_00109 tRNA-Leu(tag)
+>Leeuwenhoekiella_marinoflava_00219 tRNA-Gly(gcc)
+>Leeuwenhoekiella_marinoflava_00220 tRNA-Leu(taa)
+>Leeuwenhoekiella_marinoflava_00230 tRNA-Asp(gtc)
+>Leeuwenhoekiella_marinoflava_00626 tRNA-Ala(ggc)
+>Leeuwenhoekiella_marinoflava_00662 tRNA-Met(cat)
+>Leeuwenhoekiella_marinoflava_00684 tRNA-Cys(gca)
+>Leeuwenhoekiella_marinoflava_00831 tRNA-Asn(gtt)
+>Leeuwenhoekiella_marinoflava_00919 tRNA-Leu(caa)
+>Leeuwenhoekiella_marinoflava_01010 tRNA-Glu(ttc)
+>Leeuwenhoekiella_marinoflava_01073 tRNA-Ser(gga)
+>Leeuwenhoekiella_marinoflava_01085 tRNA-Gln(ttg)
+>Leeuwenhoekiella_marinoflava_01197 tRNA-Val(tac)
+>Leeuwenhoekiella_marinoflava_01259 tRNA-Arg(tcg)
+>Leeuwenhoekiella_marinoflava_01564 tRNA-Thr(tgt)
+>Leeuwenhoekiella_marinoflava_01565 tRNA-Tyr(gta)
+>Leeuwenhoekiella_marinoflava_01566 tRNA-Gly(tcc)
+>Leeuwenhoekiella_marinoflava_01567 tRNA-Thr(ggt)
+>Leeuwenhoekiella_marinoflava_01569 tRNA-Trp(cca)
+>Leeuwenhoekiella_marinoflava_01897 tRNA-His(gtg)
+>Leeuwenhoekiella_marinoflava_02080 tRNA-Ser(tga)
+>Leeuwenhoekiella_marinoflava_02342 tRNA-Arg(tct)
+>Leeuwenhoekiella_marinoflava_02721 tRNA-Pro(ggg)
+>Leeuwenhoekiella_marinoflava_03277 tRNA-Ala(tgc)
+>Leeuwenhoekiella_marinoflava_03278 tRNA-Ile(gat)
+>Leeuwenhoekiella_marinoflava_03315 tRNA-Met(cat)
+>Leeuwenhoekiella_marinoflava_03504 tRNA-Pro(tgg)
+>Leeuwenhoekiella_marinoflava_03505 tRNA-Ser(gct)
+>Leeuwenhoekiella_marinoflava_03514 tRNA-Ala(tgc)
+>Leeuwenhoekiella_marinoflava_03515 tRNA-Ile(gat)
+>Leeuwenhoekiella_marinoflava_03598 tRNA-Lys(ttt)
+>Leeuwenhoekiella_marinoflava_03599 tRNA-Lys(ttt)
+>Leeuwenhoekiella_marinoflava_03600 tRNA-Leu(gag)
+>Leeuwenhoekiella_marinoflava_03640 tRNA-Leu(caa)
+>Leeuwenhoekiella_marinoflava_03643 tRNA-Phe(gaa)
+>Leeuwenhoekiella_marinoflava_03756 tRNA-Arg(acg)
+>Leeuwenhoekiella_marinoflava_03832 tRNA-Glu(ttc)
+>Leeuwenhoekiella_marinoflava_03833 tRNA-Glu(ttc)
+>Leeuwenhoekiella_marinoflava_03954 tRNA-Val(gac)
+>Leeuwenhoekiella_marinoflava_03977 tRNA-Met(cat)
+>Leeuwenhoekiella_marinoflava_04035 tRNA-Phe(gaa)
+>Leeuwenhoekiella_marinoflava_04041 tRNA-Ala(tgc)
+>Leeuwenhoekiella_marinoflava_04042 tRNA-Ile(gat)
+
+'23S rRNA': 5 hits in annotated ZS1B1-1 genome
+>Leeuwenhoekiella_marinoflava_01231 23S rRNA m(2)A-2503 methyltransferase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01358 23S rRNA m(6)A-1618 methyltransferase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03007 23S rRNA (uracil(1939)-C(5))-methyltransferase RlmD [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03168 23S rRNA (pseudouridine1915-N3)-methyltransferase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03909 23S rRNA (guanosine2251-2'-O)-methyltransferase [Leeuwenhoekiella marinoflava]
+
+'16S rRNA': 8 hits in annotated ZS1B1-1 genome
+>Leeuwenhoekiella_marinoflava_00377 16S rRNA processing protein RimM [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00638 16S rRNA (cytidine1402-2'-O)-methyltransferase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01246 16S rRNA (cytosine1402-N4)-methyltransferase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02290 16S rRNA (cytosine967-C5)-methyltransferase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02988 16S rRNA (cytidine1402-2'-O)-methyltransferase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03033 16S rRNA (guanine(966)-N(2))-methyltransferase RsmD [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03576 16S rRNA (uracil(1498)-N(3))-methyltransferase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03628 16S rRNA m(7)G-527 methyltransferase [Leeuwenhoekiella marinoflava]
+
+'transfer-messenger RNA': 1 hits in annotated ZS1B1-1 genome
+>Leeuwenhoekiella_marinoflava_01855 transfer-messenger RNA, SsrA
+
+'putative protein': 25 hits in annotated ZS1B1-1 genome
+>Leeuwenhoekiella_marinoflava_00171 putative protein (TIGR02421 family) [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00205 putative protein (TIGR02453 family) [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00223 putative protein (TIGR02284 family) [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00224 putative protein (TIGR02284 family) [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00391 putative protein (TIGR00661 family) [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00550 putative protein (TIGR00255 family) [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00586 putative protein YkwD [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00593 putative protein YciI [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00771 putative protein involved in cysteine biosynthesis [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00851 putative protein (TIGR03643 family) [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01515 putative protein YjbI with pentapeptide repeats [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02143 putative protein (TIGR00290 family) [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02184 putative protein (TIGR00369 family) [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02397 putative protein YdhG (YjbR/CyaY superfamily) [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02499 putative protein (TIGR02284 family) [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02575 putative protein (TIGR02284 family) [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02589 putative protein (TIGR02453 family) [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02652 putative protein (TIGR02284 family) [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03062 putative protein (TIGR00369 family) [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03147 putative protein (TIGR02757 family) [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03282 putative protein (TIGR00266 family) [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03379 putative protein (TIGR02231 family) [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03625 putative protein affecting Mg2+/Co2+ transport [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03639 putative protein-translocating porin PorT [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03824 putative protein (TIGR00159 family) [Leeuwenhoekiella marinoflava]
+
+'hypothetical protein': 1138 hits in annotated ZS1B1-1 genome
+>Leeuwenhoekiella_marinoflava_00001 hypothetical protein
+>Leeuwenhoekiella_marinoflava_00009 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00012 hypothetical protein
+>Leeuwenhoekiella_marinoflava_00014 MULTISPECIES: hypothetical protein [Flavobacteriaceae]
+>Leeuwenhoekiella_marinoflava_00016 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00020 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00021 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00022 MULTISPECIES: hypothetical protein [Flavobacteriaceae]
+>Leeuwenhoekiella_marinoflava_00023 hypothetical protein
+>Leeuwenhoekiella_marinoflava_00025 hypothetical protein
+>Leeuwenhoekiella_marinoflava_00028 hypothetical protein
+>Leeuwenhoekiella_marinoflava_00029 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00030 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00031 hypothetical protein
+>Leeuwenhoekiella_marinoflava_00033 hypothetical protein
+>Leeuwenhoekiella_marinoflava_00035 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00040 hypothetical protein
+>Leeuwenhoekiella_marinoflava_00048 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00049 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00052 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00054 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00056 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00057 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00067 hypothetical protein
+>Leeuwenhoekiella_marinoflava_00070 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00074 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00075 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00080 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00081 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00082 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00084 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00086 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00087 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00088 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00089 hypothetical protein
+>Leeuwenhoekiella_marinoflava_00090 hypothetical protein
+>Leeuwenhoekiella_marinoflava_00091 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00093 MULTISPECIES: hypothetical protein [Flavobacteriaceae]
+>Leeuwenhoekiella_marinoflava_00096 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00097 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00098 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00101 MULTISPECIES: hypothetical protein [Flavobacteriaceae]
+>Leeuwenhoekiella_marinoflava_00102 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00103 hypothetical protein
+>Leeuwenhoekiella_marinoflava_00104 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00106 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00107 hypothetical protein
+>Leeuwenhoekiella_marinoflava_00111 hypothetical protein
+>Leeuwenhoekiella_marinoflava_00114 hypothetical protein
+>Leeuwenhoekiella_marinoflava_00116 hypothetical protein
+>Leeuwenhoekiella_marinoflava_00120 hypothetical protein
+>Leeuwenhoekiella_marinoflava_00124 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00126 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00131 hypothetical protein
+>Leeuwenhoekiella_marinoflava_00132 hypothetical protein
+>Leeuwenhoekiella_marinoflava_00138 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00162 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00163 hypothetical protein
+>Leeuwenhoekiella_marinoflava_00169 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00170 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00181 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00183 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00192 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00193 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00195 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00197 hypothetical protein [Leeuwenhoekiella palythoae]
+>Leeuwenhoekiella_marinoflava_00198 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00203 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00204 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00208 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00209 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00210 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00214 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00216 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00221 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00222 hypothetical protein
+>Leeuwenhoekiella_marinoflava_00229 hypothetical protein
+>Leeuwenhoekiella_marinoflava_00231 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00235 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00236 hypothetical protein
+>Leeuwenhoekiella_marinoflava_00237 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00238 hypothetical protein
+>Leeuwenhoekiella_marinoflava_00240 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00241 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00242 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00243 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00244 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00247 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00250 MULTISPECIES: hypothetical protein [Leeuwenhoekiella]
+>Leeuwenhoekiella_marinoflava_00251 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00255 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00259 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00265 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00276 hypothetical protein
+>Leeuwenhoekiella_marinoflava_00277 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00291 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00292 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00299 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00308 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00310 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00311 hypothetical protein
+>Leeuwenhoekiella_marinoflava_00313 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00318 hypothetical protein
+>Leeuwenhoekiella_marinoflava_00322 hypothetical protein
+>Leeuwenhoekiella_marinoflava_00323 hypothetical protein
+>Leeuwenhoekiella_marinoflava_00324 hypothetical protein
+>Leeuwenhoekiella_marinoflava_00325 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00327 hypothetical protein
+>Leeuwenhoekiella_marinoflava_00332 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00333 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00337 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00338 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00340 hypothetical protein
+>Leeuwenhoekiella_marinoflava_00342 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00344 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00345 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00353 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00355 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00367 hypothetical protein
+>Leeuwenhoekiella_marinoflava_00372 hypothetical protein
+>Leeuwenhoekiella_marinoflava_00373 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00375 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00380 hypothetical protein DSL99_376 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00383 hypothetical protein DSL99_373 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00397 hypothetical protein
+>Leeuwenhoekiella_marinoflava_00400 hypothetical protein
+>Leeuwenhoekiella_marinoflava_00403 hypothetical protein
+>Leeuwenhoekiella_marinoflava_00406 hypothetical protein DSL99_350 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00407 hypothetical protein DSL99_349 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00408 hypothetical protein DSL99_348 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00409 hypothetical protein
+>Leeuwenhoekiella_marinoflava_00410 hypothetical protein DSL99_346 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00413 hypothetical protein DSL99_343 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00416 hypothetical protein DSL99_340 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00420 hypothetical protein
+>Leeuwenhoekiella_marinoflava_00422 hypothetical protein DSL99_333 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00424 hypothetical protein DSL99_331 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00432 hypothetical protein DSL99_323 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00434 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00435 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00437 hypothetical protein
+>Leeuwenhoekiella_marinoflava_00444 hypothetical protein DSL99_312 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00451 hypothetical protein
+>Leeuwenhoekiella_marinoflava_00457 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00458 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00459 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00469 hypothetical protein DSL99_291 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00471 hypothetical protein
+>Leeuwenhoekiella_marinoflava_00480 hypothetical protein DSL99_283 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00481 hypothetical protein DSL99_282 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00489 hypothetical protein
+>Leeuwenhoekiella_marinoflava_00493 hypothetical protein DSL99_270 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00494 hypothetical protein DSL99_269 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00500 hypothetical protein
+>Leeuwenhoekiella_marinoflava_00501 hypothetical protein DSL99_262 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00502 hypothetical protein
+>Leeuwenhoekiella_marinoflava_00504 hypothetical protein DSL99_260 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00506 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00511 hypothetical protein
+>Leeuwenhoekiella_marinoflava_00516 hypothetical protein DSL99_247 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00518 hypothetical protein DSL99_245 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00522 hypothetical protein DSL99_241 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00525 hypothetical protein DSL99_238 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00530 hypothetical protein DSL99_233 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00532 hypothetical protein
+>Leeuwenhoekiella_marinoflava_00538 hypothetical protein DSL99_225 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00548 hypothetical protein
+>Leeuwenhoekiella_marinoflava_00549 hypothetical protein
+>Leeuwenhoekiella_marinoflava_00554 hypothetical protein DSL99_209 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00556 hypothetical protein DSL99_207 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00557 hypothetical protein DSL99_206 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00560 hypothetical protein DSL99_203 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00564 hypothetical protein DSL99_199 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00570 hypothetical protein DSL99_193 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00571 hypothetical protein
+>Leeuwenhoekiella_marinoflava_00573 hypothetical protein
+>Leeuwenhoekiella_marinoflava_00578 hypothetical protein
+>Leeuwenhoekiella_marinoflava_00580 hypothetical protein DSL99_183 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00587 hypothetical protein DSL99_177 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00598 hypothetical protein DSL99_166 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00611 hypothetical protein DSL99_153 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00612 hypothetical protein DSL99_152 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00617 hypothetical protein DSL99_146 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00630 hypothetical protein DSL99_134 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00631 hypothetical protein DSL99_133 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00634 hypothetical protein DSL99_130 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00636 hypothetical protein DSL99_128 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00637 hypothetical protein DSL99_127 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00639 hypothetical protein DSL99_125 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00645 hypothetical protein
+>Leeuwenhoekiella_marinoflava_00651 hypothetical protein
+>Leeuwenhoekiella_marinoflava_00654 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00657 hypothetical protein DSL99_108 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00658 hypothetical protein DSL99_107 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00659 hypothetical protein DSL99_106 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00660 hypothetical protein DSL99_105 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00661 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00669 hypothetical protein DSL99_88 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00677 hypothetical protein
+>Leeuwenhoekiella_marinoflava_00679 hypothetical protein DSL99_78 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00688 hypothetical protein DSL99_69 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00689 hypothetical protein DSL99_68 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00691 hypothetical protein DSL99_66 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00693 hypothetical protein DSL99_64 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00701 hypothetical protein
+>Leeuwenhoekiella_marinoflava_00705 hypothetical protein DSL99_51 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00706 hypothetical protein DSL99_50 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00708 hypothetical protein DSL99_48 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00715 hypothetical protein DSL99_41 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00716 hypothetical protein DSL99_40 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00717 hypothetical protein DSL99_39 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00719 hypothetical protein
+>Leeuwenhoekiella_marinoflava_00723 hypothetical protein DSL99_33 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00725 hypothetical protein DSL99_31 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00729 hypothetical protein DSL99_27 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00736 hypothetical protein DSL99_20 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00739 hypothetical protein DSL99_17 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00742 hypothetical protein
+>Leeuwenhoekiella_marinoflava_00751 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00753 hypothetical protein
+>Leeuwenhoekiella_marinoflava_00761 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00765 hypothetical protein
+>Leeuwenhoekiella_marinoflava_00766 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00772 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00778 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00783 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00785 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00797 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00800 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00805 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00812 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00813 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00826 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00832 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00833 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00835 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00836 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00837 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00841 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00844 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00846 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00848 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00852 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00853 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00854 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00857 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00862 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00867 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00872 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00874 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00881 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00883 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00896 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00897 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00907 hypothetical protein
+>Leeuwenhoekiella_marinoflava_00910 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00912 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00913 hypothetical protein
+>Leeuwenhoekiella_marinoflava_00920 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00922 hypothetical protein
+>Leeuwenhoekiella_marinoflava_00927 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00946 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00948 hypothetical protein
+>Leeuwenhoekiella_marinoflava_00950 hypothetical protein
+>Leeuwenhoekiella_marinoflava_00952 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00953 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00957 hypothetical protein
+>Leeuwenhoekiella_marinoflava_00961 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00964 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00967 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00969 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00970 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00971 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00972 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00973 hypothetical protein
+>Leeuwenhoekiella_marinoflava_00974 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00986 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00988 hypothetical protein
+>Leeuwenhoekiella_marinoflava_00989 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00991 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00992 hypothetical protein
+>Leeuwenhoekiella_marinoflava_00995 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_00997 hypothetical protein
+>Leeuwenhoekiella_marinoflava_00999 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01001 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01005 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01006 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01008 hypothetical protein
+>Leeuwenhoekiella_marinoflava_01013 hypothetical protein
+>Leeuwenhoekiella_marinoflava_01014 hypothetical protein
+>Leeuwenhoekiella_marinoflava_01016 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01020 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01021 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01023 hypothetical protein
+>Leeuwenhoekiella_marinoflava_01036 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01037 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01040 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01048 hypothetical protein
+>Leeuwenhoekiella_marinoflava_01049 hypothetical protein
+>Leeuwenhoekiella_marinoflava_01051 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01052 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01053 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01054 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01055 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01058 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01059 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01061 hypothetical protein
+>Leeuwenhoekiella_marinoflava_01062 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01063 hypothetical protein [Leeuwenhoekiella sp. ZYFB001]
+>Leeuwenhoekiella_marinoflava_01067 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01071 MULTISPECIES: hypothetical protein [Leeuwenhoekiella]
+>Leeuwenhoekiella_marinoflava_01078 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01080 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01081 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01086 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01101 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01119 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01122 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01131 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01132 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01140 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01153 hypothetical protein
+>Leeuwenhoekiella_marinoflava_01160 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01164 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01165 hypothetical protein
+>Leeuwenhoekiella_marinoflava_01166 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01167 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01173 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01187 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01188 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01189 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01199 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01200 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01222 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01225 hypothetical protein
+>Leeuwenhoekiella_marinoflava_01227 hypothetical protein
+>Leeuwenhoekiella_marinoflava_01234 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01235 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01242 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01247 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01258 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01263 hypothetical protein
+>Leeuwenhoekiella_marinoflava_01265 hypothetical protein
+>Leeuwenhoekiella_marinoflava_01266 MULTISPECIES: hypothetical protein [Leeuwenhoekiella]
+>Leeuwenhoekiella_marinoflava_01267 hypothetical protein
+>Leeuwenhoekiella_marinoflava_01269 hypothetical protein [Leeuwenhoekiella palythoae]
+>Leeuwenhoekiella_marinoflava_01272 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01275 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01280 hypothetical protein
+>Leeuwenhoekiella_marinoflava_01284 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01294 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01296 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01297 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01298 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01299 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01300 hypothetical protein
+>Leeuwenhoekiella_marinoflava_01302 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01307 hypothetical protein
+>Leeuwenhoekiella_marinoflava_01313 hypothetical protein
+>Leeuwenhoekiella_marinoflava_01315 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01316 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01323 hypothetical protein
+>Leeuwenhoekiella_marinoflava_01326 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01327 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01331 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01332 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01337 hypothetical protein
+>Leeuwenhoekiella_marinoflava_01346 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01349 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01352 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01371 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01373 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01375 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01377 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01379 hypothetical protein
+>Leeuwenhoekiella_marinoflava_01382 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01383 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01384 hypothetical protein
+>Leeuwenhoekiella_marinoflava_01386 hypothetical protein
+>Leeuwenhoekiella_marinoflava_01387 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01397 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01398 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01400 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01401 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01402 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01403 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01409 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01410 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01411 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01413 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01418 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01419 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01425 hypothetical protein
+>Leeuwenhoekiella_marinoflava_01427 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01433 hypothetical protein
+>Leeuwenhoekiella_marinoflava_01434 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01437 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01444 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01448 hypothetical protein
+>Leeuwenhoekiella_marinoflava_01450 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01452 hypothetical protein
+>Leeuwenhoekiella_marinoflava_01464 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01468 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01469 hypothetical protein
+>Leeuwenhoekiella_marinoflava_01476 hypothetical protein
+>Leeuwenhoekiella_marinoflava_01490 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01501 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01508 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01513 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01516 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01522 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01524 hypothetical protein
+>Leeuwenhoekiella_marinoflava_01528 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01530 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01531 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01534 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01536 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01541 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01542 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01543 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01545 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01549 hypothetical protein
+>Leeuwenhoekiella_marinoflava_01551 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01553 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01554 hypothetical protein
+>Leeuwenhoekiella_marinoflava_01560 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01578 hypothetical protein
+>Leeuwenhoekiella_marinoflava_01581 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01582 hypothetical protein
+>Leeuwenhoekiella_marinoflava_01587 hypothetical protein
+>Leeuwenhoekiella_marinoflava_01589 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01590 hypothetical protein
+>Leeuwenhoekiella_marinoflava_01591 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01592 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01597 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01599 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01600 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01602 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01604 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01609 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01610 hypothetical protein
+>Leeuwenhoekiella_marinoflava_01611 hypothetical protein
+>Leeuwenhoekiella_marinoflava_01615 hypothetical protein
+>Leeuwenhoekiella_marinoflava_01617 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01622 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01623 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01625 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01627 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01656 hypothetical protein
+>Leeuwenhoekiella_marinoflava_01666 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01667 hypothetical protein [Leeuwenhoekiella palythoae]
+>Leeuwenhoekiella_marinoflava_01668 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01669 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01674 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01675 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01676 hypothetical protein
+>Leeuwenhoekiella_marinoflava_01677 hypothetical protein
+>Leeuwenhoekiella_marinoflava_01682 hypothetical protein
+>Leeuwenhoekiella_marinoflava_01685 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01688 hypothetical protein
+>Leeuwenhoekiella_marinoflava_01689 hypothetical protein
+>Leeuwenhoekiella_marinoflava_01690 hypothetical protein
+>Leeuwenhoekiella_marinoflava_01693 hypothetical protein
+>Leeuwenhoekiella_marinoflava_01694 hypothetical protein
+>Leeuwenhoekiella_marinoflava_01695 hypothetical protein
+>Leeuwenhoekiella_marinoflava_01696 hypothetical protein
+>Leeuwenhoekiella_marinoflava_01699 hypothetical protein
+>Leeuwenhoekiella_marinoflava_01700 hypothetical protein
+>Leeuwenhoekiella_marinoflava_01701 hypothetical protein
+>Leeuwenhoekiella_marinoflava_01702 hypothetical protein
+>Leeuwenhoekiella_marinoflava_01703 hypothetical protein
+>Leeuwenhoekiella_marinoflava_01704 hypothetical protein
+>Leeuwenhoekiella_marinoflava_01714 hypothetical protein
+>Leeuwenhoekiella_marinoflava_01717 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01718 hypothetical protein
+>Leeuwenhoekiella_marinoflava_01738 hypothetical protein
+>Leeuwenhoekiella_marinoflava_01743 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01755 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01766 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01768 hypothetical protein
+>Leeuwenhoekiella_marinoflava_01776 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01778 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01779 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01780 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01785 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01786 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01791 hypothetical protein
+>Leeuwenhoekiella_marinoflava_01792 hypothetical protein
+>Leeuwenhoekiella_marinoflava_01800 hypothetical protein
+>Leeuwenhoekiella_marinoflava_01801 hypothetical protein
+>Leeuwenhoekiella_marinoflava_01805 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01806 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01807 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01808 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01809 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01810 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01814 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01823 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01825 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01830 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01832 hypothetical protein
+>Leeuwenhoekiella_marinoflava_01835 hypothetical protein
+>Leeuwenhoekiella_marinoflava_01837 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01838 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01839 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01841 hypothetical protein
+>Leeuwenhoekiella_marinoflava_01842 hypothetical protein
+>Leeuwenhoekiella_marinoflava_01843 hypothetical protein
+>Leeuwenhoekiella_marinoflava_01844 hypothetical protein
+>Leeuwenhoekiella_marinoflava_01845 hypothetical protein
+>Leeuwenhoekiella_marinoflava_01846 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01848 hypothetical protein
+>Leeuwenhoekiella_marinoflava_01849 hypothetical protein
+>Leeuwenhoekiella_marinoflava_01850 hypothetical protein
+>Leeuwenhoekiella_marinoflava_01851 hypothetical protein
+>Leeuwenhoekiella_marinoflava_01852 hypothetical protein
+>Leeuwenhoekiella_marinoflava_01853 hypothetical protein
+>Leeuwenhoekiella_marinoflava_01854 hypothetical protein
+>Leeuwenhoekiella_marinoflava_01858 hypothetical protein
+>Leeuwenhoekiella_marinoflava_01860 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01864 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01867 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01872 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01873 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01889 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01890 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01891 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01898 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01899 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01900 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01901 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01902 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01903 hypothetical protein
+>Leeuwenhoekiella_marinoflava_01907 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01910 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01915 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01922 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01925 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01929 hypothetical protein
+>Leeuwenhoekiella_marinoflava_01933 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01937 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01959 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01960 hypothetical protein
+>Leeuwenhoekiella_marinoflava_01970 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01972 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01976 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01978 hypothetical protein
+>Leeuwenhoekiella_marinoflava_01981 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01983 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01984 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01985 hypothetical protein
+>Leeuwenhoekiella_marinoflava_01988 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01989 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01990 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02003 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02011 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02012 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02015 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02023 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02028 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02044 hypothetical protein
+>Leeuwenhoekiella_marinoflava_02048 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02054 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02059 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02060 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02061 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02062 hypothetical protein
+>Leeuwenhoekiella_marinoflava_02065 hypothetical protein
+>Leeuwenhoekiella_marinoflava_02066 hypothetical protein
+>Leeuwenhoekiella_marinoflava_02067 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02073 hypothetical protein
+>Leeuwenhoekiella_marinoflava_02074 hypothetical protein
+>Leeuwenhoekiella_marinoflava_02075 hypothetical protein [Leeuwenhoekiella palythoae]
+>Leeuwenhoekiella_marinoflava_02076 hypothetical protein
+>Leeuwenhoekiella_marinoflava_02077 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02078 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02082 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02083 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02090 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02093 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02095 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02096 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02098 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02103 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02104 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02107 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02109 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02114 hypothetical protein
+>Leeuwenhoekiella_marinoflava_02115 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02125 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02128 hypothetical protein
+>Leeuwenhoekiella_marinoflava_02129 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02133 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02138 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02139 hypothetical protein
+>Leeuwenhoekiella_marinoflava_02146 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02156 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02157 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02160 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02173 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02174 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02177 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02180 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02181 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02182 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02183 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02185 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02193 hypothetical protein
+>Leeuwenhoekiella_marinoflava_02195 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02196 hypothetical protein
+>Leeuwenhoekiella_marinoflava_02197 hypothetical protein
+>Leeuwenhoekiella_marinoflava_02200 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02202 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02206 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02219 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02220 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02226 hypothetical protein
+>Leeuwenhoekiella_marinoflava_02228 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02236 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02241 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02243 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02254 hypothetical protein
+>Leeuwenhoekiella_marinoflava_02259 hypothetical protein
+>Leeuwenhoekiella_marinoflava_02260 hypothetical protein
+>Leeuwenhoekiella_marinoflava_02261 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02262 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02267 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02269 hypothetical protein
+>Leeuwenhoekiella_marinoflava_02275 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02279 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02280 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02288 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02292 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02293 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02298 hypothetical protein
+>Leeuwenhoekiella_marinoflava_02305 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02306 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02307 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02320 hypothetical protein
+>Leeuwenhoekiella_marinoflava_02321 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02322 hypothetical protein
+>Leeuwenhoekiella_marinoflava_02324 hypothetical protein
+>Leeuwenhoekiella_marinoflava_02325 hypothetical protein
+>Leeuwenhoekiella_marinoflava_02326 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02333 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02339 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02341 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02346 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02347 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02350 hypothetical protein
+>Leeuwenhoekiella_marinoflava_02354 hypothetical protein DSL99_739 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02362 hypothetical protein
+>Leeuwenhoekiella_marinoflava_02367 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02368 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02370 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02371 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02372 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02374 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02375 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02376 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02379 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02381 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02383 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02387 hypothetical protein
+>Leeuwenhoekiella_marinoflava_02390 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02391 hypothetical protein
+>Leeuwenhoekiella_marinoflava_02392 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02395 hypothetical protein
+>Leeuwenhoekiella_marinoflava_02396 hypothetical protein DSL99_745 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02400 hypothetical protein DSL99_750 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02401 hypothetical protein DSL99_751 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02404 hypothetical protein DSL99_756 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02405 hypothetical protein DSL99_760 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02406 hypothetical protein
+>Leeuwenhoekiella_marinoflava_02410 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02411 hypothetical protein DSL99_767 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02414 hypothetical protein
+>Leeuwenhoekiella_marinoflava_02415 hypothetical protein DSL99_771 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02421 hypothetical protein
+>Leeuwenhoekiella_marinoflava_02422 hypothetical protein DSL99_778 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02429 hypothetical protein DSL99_785 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02432 hypothetical protein
+>Leeuwenhoekiella_marinoflava_02436 hypothetical protein DSL99_792 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02437 hypothetical protein DSL99_793 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02438 hypothetical protein
+>Leeuwenhoekiella_marinoflava_02445 hypothetical protein DSL99_799 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02451 hypothetical protein DSL99_805 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02452 hypothetical protein DSL99_806 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02453 hypothetical protein
+>Leeuwenhoekiella_marinoflava_02459 hypothetical protein DSL99_813 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02460 hypothetical protein
+>Leeuwenhoekiella_marinoflava_02463 hypothetical protein DSL99_817 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02467 hypothetical protein DSL99_821 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02473 hypothetical protein
+>Leeuwenhoekiella_marinoflava_02479 hypothetical protein
+>Leeuwenhoekiella_marinoflava_02480 hypothetical protein DSL99_836 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02484 hypothetical protein DSL99_840 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02493 hypothetical protein DSL99_849 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02494 hypothetical protein DSL99_850 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02495 hypothetical protein
+>Leeuwenhoekiella_marinoflava_02506 hypothetical protein
+>Leeuwenhoekiella_marinoflava_02509 hypothetical protein DSL99_867 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02515 hypothetical protein
+>Leeuwenhoekiella_marinoflava_02522 hypothetical protein DSL99_880 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02523 hypothetical protein DSL99_881 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02525 hypothetical protein
+>Leeuwenhoekiella_marinoflava_02526 hypothetical protein DSL99_884 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02533 hypothetical protein DSL99_891 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02534 hypothetical protein DSL99_892 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02539 hypothetical protein DSL99_897 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02547 hypothetical protein DSL99_906 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02548 hypothetical protein DSL99_907 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02552 hypothetical protein
+>Leeuwenhoekiella_marinoflava_02557 hypothetical protein
+>Leeuwenhoekiella_marinoflava_02558 hypothetical protein
+>Leeuwenhoekiella_marinoflava_02561 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02565 hypothetical protein DSL99_922 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02567 hypothetical protein
+>Leeuwenhoekiella_marinoflava_02570 hypothetical protein DSL99_927 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02572 hypothetical protein
+>Leeuwenhoekiella_marinoflava_02573 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02576 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02578 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02579 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02580 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02582 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02588 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02594 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02600 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02603 hypothetical protein
+>Leeuwenhoekiella_marinoflava_02607 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02615 hypothetical protein
+>Leeuwenhoekiella_marinoflava_02620 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02627 hypothetical protein
+>Leeuwenhoekiella_marinoflava_02628 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02633 hypothetical protein
+>Leeuwenhoekiella_marinoflava_02634 MULTISPECIES: hypothetical protein [Flavobacteriaceae]
+>Leeuwenhoekiella_marinoflava_02638 hypothetical protein
+>Leeuwenhoekiella_marinoflava_02643 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02644 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02647 hypothetical protein
+>Leeuwenhoekiella_marinoflava_02648 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02649 hypothetical protein
+>Leeuwenhoekiella_marinoflava_02651 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02653 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02654 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02655 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02658 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02664 hypothetical protein
+>Leeuwenhoekiella_marinoflava_02665 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02666 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02669 hypothetical protein
+>Leeuwenhoekiella_marinoflava_02673 hypothetical protein DSL99_935 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02698 hypothetical protein DSL99_960 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02701 hypothetical protein DSL99_963 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02707 hypothetical protein DSL99_969 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02710 hypothetical protein
+>Leeuwenhoekiella_marinoflava_02711 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02713 hypothetical protein DSL99_975 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02716 hypothetical protein DSL99_978 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02719 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02720 hypothetical protein DSL99_981 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02726 hypothetical protein
+>Leeuwenhoekiella_marinoflava_02735 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02738 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02743 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02754 hypothetical protein DSL99_992 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02756 hypothetical protein
+>Leeuwenhoekiella_marinoflava_02761 hypothetical protein
+>Leeuwenhoekiella_marinoflava_02764 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02768 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02769 hypothetical protein
+>Leeuwenhoekiella_marinoflava_02770 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02773 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02774 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02775 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02779 hypothetical protein
+>Leeuwenhoekiella_marinoflava_02782 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02786 hypothetical protein
+>Leeuwenhoekiella_marinoflava_02797 hypothetical protein
+>Leeuwenhoekiella_marinoflava_02808 hypothetical protein
+>Leeuwenhoekiella_marinoflava_02817 hypothetical protein
+>Leeuwenhoekiella_marinoflava_02819 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02822 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02828 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02842 hypothetical protein
+>Leeuwenhoekiella_marinoflava_02843 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02844 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02845 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02846 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02847 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02848 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02849 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02850 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02851 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02854 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02855 hypothetical protein
+>Leeuwenhoekiella_marinoflava_02856 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02859 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02860 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02861 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02862 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02863 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02865 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02875 hypothetical protein
+>Leeuwenhoekiella_marinoflava_02882 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02885 hypothetical protein
+>Leeuwenhoekiella_marinoflava_02887 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02888 hypothetical protein
+>Leeuwenhoekiella_marinoflava_02889 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02896 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02897 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02899 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02900 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02901 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02904 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02908 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02909 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02911 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02919 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02920 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02923 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02926 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02927 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02928 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02933 hypothetical protein DSL99_685 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02934 hypothetical protein DSL99_684 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02935 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02936 hypothetical protein DSL99_683 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02940 hypothetical protein DSL99_678 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02942 hypothetical protein DSL99_676 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02943 hypothetical protein DSL99_676 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02944 hypothetical protein
+>Leeuwenhoekiella_marinoflava_02945 hypothetical protein DSL99_673 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02950 hypothetical protein DSL99_668 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02953 hypothetical protein
+>Leeuwenhoekiella_marinoflava_02954 hypothetical protein DSL99_664 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02956 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02967 hypothetical protein
+>Leeuwenhoekiella_marinoflava_02972 hypothetical protein DSL99_647 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02975 hypothetical protein DSL99_644 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02976 hypothetical protein DSL99_643 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02978 hypothetical protein DSL99_641 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02989 hypothetical protein DSL99_630 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02990 hypothetical protein
+>Leeuwenhoekiella_marinoflava_02995 hypothetical protein DSL99_624 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03000 hypothetical protein
+>Leeuwenhoekiella_marinoflava_03002 hypothetical protein DSL99_617 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03008 hypothetical protein DSL99_611 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03009 hypothetical protein DSL99_610 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03016 hypothetical protein DSL99_603 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03024 hypothetical protein
+>Leeuwenhoekiella_marinoflava_03026 hypothetical protein DSL99_593 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03029 hypothetical protein
+>Leeuwenhoekiella_marinoflava_03031 hypothetical protein DSL99_588 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03032 hypothetical protein
+>Leeuwenhoekiella_marinoflava_03034 hypothetical protein DSL99_585 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03036 hypothetical protein DSL99_582 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03044 hypothetical protein DSL99_574 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03047 hypothetical protein
+>Leeuwenhoekiella_marinoflava_03049 hypothetical protein
+>Leeuwenhoekiella_marinoflava_03052 hypothetical protein DSL99_567 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03053 hypothetical protein DSL99_566 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03056 hypothetical protein DSL99_563 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03058 hypothetical protein DSL99_561 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03059 hypothetical protein
+>Leeuwenhoekiella_marinoflava_03065 hypothetical protein DSL99_554 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03067 hypothetical protein
+>Leeuwenhoekiella_marinoflava_03070 hypothetical protein DSL99_550 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03076 hypothetical protein DSL99_544 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03078 hypothetical protein DSL99_542 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03080 hypothetical protein DSL99_540 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03082 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03083 hypothetical protein DSL99_537 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03088 hypothetical protein
+>Leeuwenhoekiella_marinoflava_03089 hypothetical protein
+>Leeuwenhoekiella_marinoflava_03093 hypothetical protein DSL99_526 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03110 hypothetical protein
+>Leeuwenhoekiella_marinoflava_03113 hypothetical protein DSL99_506 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03114 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03121 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03122 hypothetical protein DSL99_496 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03127 hypothetical protein
+>Leeuwenhoekiella_marinoflava_03128 hypothetical protein DSL99_490 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03129 hypothetical protein
+>Leeuwenhoekiella_marinoflava_03136 hypothetical protein
+>Leeuwenhoekiella_marinoflava_03142 hypothetical protein
+>Leeuwenhoekiella_marinoflava_03143 hypothetical protein DSL99_477 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03154 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03156 hypothetical protein DSL99_464 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03159 hypothetical protein DSL99_461 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03165 hypothetical protein
+>Leeuwenhoekiella_marinoflava_03170 hypothetical protein DSL99_450 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03173 hypothetical protein DSL99_447 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03175 hypothetical protein DSL99_445 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03179 hypothetical protein DSL99_441 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03194 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03195 hypothetical protein
+>Leeuwenhoekiella_marinoflava_03197 hypothetical protein DSL99_422 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03201 hypothetical protein DSL99_418 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03202 hypothetical protein DSL99_417 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03204 hypothetical protein DSL99_415 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03207 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03210 hypothetical protein DSL99_409 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03212 hypothetical protein DSL99_407 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03216 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03218 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03219 hypothetical protein
+>Leeuwenhoekiella_marinoflava_03221 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03224 hypothetical protein DSL99_399 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03227 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03234 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03235 hypothetical protein DSL99_390 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03237 hypothetical protein DSL99_388 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03240 hypothetical protein DSL99_385 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03241 hypothetical protein DSL99_384 [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03245 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03247 hypothetical protein
+>Leeuwenhoekiella_marinoflava_03250 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03251 hypothetical protein
+>Leeuwenhoekiella_marinoflava_03252 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03259 hypothetical protein
+>Leeuwenhoekiella_marinoflava_03265 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03269 hypothetical protein
+>Leeuwenhoekiella_marinoflava_03275 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03276 hypothetical protein
+>Leeuwenhoekiella_marinoflava_03279 hypothetical protein
+>Leeuwenhoekiella_marinoflava_03281 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03283 hypothetical protein
+>Leeuwenhoekiella_marinoflava_03284 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03291 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03294 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03299 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03302 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03305 hypothetical protein
+>Leeuwenhoekiella_marinoflava_03306 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03310 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03314 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03321 hypothetical protein
+>Leeuwenhoekiella_marinoflava_03322 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03324 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03325 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03326 hypothetical protein
+>Leeuwenhoekiella_marinoflava_03328 hypothetical protein
+>Leeuwenhoekiella_marinoflava_03342 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03343 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03346 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03355 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03359 hypothetical protein
+>Leeuwenhoekiella_marinoflava_03367 hypothetical protein
+>Leeuwenhoekiella_marinoflava_03371 hypothetical protein
+>Leeuwenhoekiella_marinoflava_03375 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03382 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03391 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03392 hypothetical protein
+>Leeuwenhoekiella_marinoflava_03394 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03399 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03401 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03403 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03405 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03412 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03413 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03414 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03416 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03421 hypothetical protein
+>Leeuwenhoekiella_marinoflava_03422 hypothetical protein
+>Leeuwenhoekiella_marinoflava_03430 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03431 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03432 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03433 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03438 hypothetical protein
+>Leeuwenhoekiella_marinoflava_03444 hypothetical protein
+>Leeuwenhoekiella_marinoflava_03456 MULTISPECIES: hypothetical protein [Flavobacteriaceae]
+>Leeuwenhoekiella_marinoflava_03458 MULTISPECIES: hypothetical protein [Flavobacteriaceae]
+>Leeuwenhoekiella_marinoflava_03466 MULTISPECIES: hypothetical protein [unclassified Leeuwenhoekiella]
+>Leeuwenhoekiella_marinoflava_03468 hypothetical protein
+>Leeuwenhoekiella_marinoflava_03485 MULTISPECIES: hypothetical protein [Leeuwenhoekiella]
+>Leeuwenhoekiella_marinoflava_03488 MULTISPECIES: hypothetical protein [Leeuwenhoekiella]
+>Leeuwenhoekiella_marinoflava_03491 hypothetical protein
+>Leeuwenhoekiella_marinoflava_03495 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03498 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03500 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03502 hypothetical protein
+>Leeuwenhoekiella_marinoflava_03506 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03511 hypothetical protein
+>Leeuwenhoekiella_marinoflava_03513 hypothetical protein
+>Leeuwenhoekiella_marinoflava_03516 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03521 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03522 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03524 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03527 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03532 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03533 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03534 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03536 hypothetical protein
+>Leeuwenhoekiella_marinoflava_03538 hypothetical protein
+>Leeuwenhoekiella_marinoflava_03542 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03543 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03544 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03548 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03557 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03560 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03563 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03564 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03565 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03569 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03571 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03574 hypothetical protein
+>Leeuwenhoekiella_marinoflava_03579 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03582 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03583 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03593 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03601 hypothetical protein
+>Leeuwenhoekiella_marinoflava_03602 hypothetical protein
+>Leeuwenhoekiella_marinoflava_03603 hypothetical protein
+>Leeuwenhoekiella_marinoflava_03616 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03623 hypothetical protein
+>Leeuwenhoekiella_marinoflava_03624 hypothetical protein
+>Leeuwenhoekiella_marinoflava_03627 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03632 hypothetical protein
+>Leeuwenhoekiella_marinoflava_03642 hypothetical protein
+>Leeuwenhoekiella_marinoflava_03646 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03647 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03649 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03653 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03654 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03655 MULTISPECIES: hypothetical protein [unclassified Leeuwenhoekiella]
+>Leeuwenhoekiella_marinoflava_03660 hypothetical protein
+>Leeuwenhoekiella_marinoflava_03667 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03670 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03671 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03674 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03704 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03707 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03726 hypothetical protein
+>Leeuwenhoekiella_marinoflava_03735 hypothetical protein
+>Leeuwenhoekiella_marinoflava_03736 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03738 hypothetical protein
+>Leeuwenhoekiella_marinoflava_03740 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03741 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03742 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03748 hypothetical protein
+>Leeuwenhoekiella_marinoflava_03758 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03760 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03762 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03763 hypothetical protein
+>Leeuwenhoekiella_marinoflava_03764 hypothetical protein
+>Leeuwenhoekiella_marinoflava_03765 hypothetical protein
+>Leeuwenhoekiella_marinoflava_03766 hypothetical protein
+>Leeuwenhoekiella_marinoflava_03769 hypothetical protein
+>Leeuwenhoekiella_marinoflava_03770 hypothetical protein
+>Leeuwenhoekiella_marinoflava_03771 hypothetical protein
+>Leeuwenhoekiella_marinoflava_03798 hypothetical protein
+>Leeuwenhoekiella_marinoflava_03799 MULTISPECIES: hypothetical protein [Flavobacteriaceae]
+>Leeuwenhoekiella_marinoflava_03804 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03806 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03810 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03813 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03818 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03819 hypothetical protein
+>Leeuwenhoekiella_marinoflava_03821 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03825 hypothetical protein
+>Leeuwenhoekiella_marinoflava_03828 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03829 hypothetical protein
+>Leeuwenhoekiella_marinoflava_03835 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03836 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03840 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03845 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03848 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03850 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03851 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03852 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03853 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03857 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03864 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03865 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03866 hypothetical protein
+>Leeuwenhoekiella_marinoflava_03904 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03912 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03914 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03916 hypothetical protein
+>Leeuwenhoekiella_marinoflava_03918 hypothetical protein
+>Leeuwenhoekiella_marinoflava_03922 hypothetical protein
+>Leeuwenhoekiella_marinoflava_03930 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03931 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03932 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03934 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03935 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03937 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03950 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03958 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03960 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03961 hypothetical protein
+>Leeuwenhoekiella_marinoflava_03962 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03965 hypothetical protein
+>Leeuwenhoekiella_marinoflava_03969 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03970 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03971 hypothetical protein
+>Leeuwenhoekiella_marinoflava_03972 hypothetical protein
+>Leeuwenhoekiella_marinoflava_03973 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03978 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03980 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03985 hypothetical protein
+>Leeuwenhoekiella_marinoflava_03996 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_04000 hypothetical protein
+>Leeuwenhoekiella_marinoflava_04004 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_04005 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_04030 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_04032 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_04036 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_04038 hypothetical protein
+>Leeuwenhoekiella_marinoflava_04039 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_04040 hypothetical protein
+>Leeuwenhoekiella_marinoflava_04047 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_04048 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_04052 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_04056 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_04057 hypothetical protein
+>Leeuwenhoekiella_marinoflava_04060 hypothetical protein
+>Leeuwenhoekiella_marinoflava_04064 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_04065 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_04066 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_04074 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_04075 hypothetical protein
+>Leeuwenhoekiella_marinoflava_04079 hypothetical protein
+>Leeuwenhoekiella_marinoflava_04082 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_04083 hypothetical protein
+>Leeuwenhoekiella_marinoflava_04084 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_04088 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_04089 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_04091 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_04092 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_04101 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_04106 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_04114 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_04124 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_04140 hypothetical protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_04147 hypothetical protein [Leeuwenhoekiella marinoflava]
+
