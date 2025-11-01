@@ -55,8 +55,8 @@ alginase
 sus.
 chrysolaminarin
 tRNA-...(...)$
-rRNA
 23S rRNA
 16S rRNA
+transfer-messenger RNA
 putative protein
 hypothetical protein
