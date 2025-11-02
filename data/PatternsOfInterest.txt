@@ -16,37 +16,51 @@ carbohydrate esterase
 carbohydrate-binding
 secretion system
 pectin
-galacturonic acid
 pectinase
+pectinesterase
 glycogen
 glycogen phosphorylase
 starch
 maltose
 maltase
+manose
+mannosyl
+mannosidase
+mannonate
 amylopectin
 amylose
 amylase
 galactogen
 galactose
+galactosidase
 galactosyl
+galacturon
+galacturonic
 galactase
+rhamnose
+rhamnogalacturonan
+rhamnogalacturonyl
+rhamnosidase
 inulin
 inulinase
 cellulose
 cellulase
 Arabinoxylan
 arabinose
+arabinosidase
+arabinofuranosidase
 arabinoxylanase
 xylan
 xylose
 xylanase
+xylosidase
+xylohydrolase
 chitin
+chitobiase
 chitosan
-chitinases
+chitinase
 N-acetylglucosamine
 dolichol
-manose
-mannosyl
 sialic acid
 sialic
 sialyl

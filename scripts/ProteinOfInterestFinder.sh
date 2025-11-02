@@ -4,8 +4,10 @@
 DATA_PATH="/home/alvin/BIO511/Genomics_pipelines/ZS1B1_1_WGS_project/data"
 RESULTS_PATH="/home/alvin/BIO511/Genomics_pipelines/ZS1B1_1_WGS_project/results/AnnotationsOfInterest"
 GENOMIC_ANNOTATION="${DATA_PATH}/25_10_2025_ZS1B1-1_prokka_Curated" # The directory containing ZS1B1-1 genome for input
-PatternsOfInterest="${DATA_PATH}/PatternsOfInterest.txt" # Gene name patterns of interest. Put your keywords into this text-file re 
-# Extracting base date from name of prokka-folder
+PatternsOfInterest="${DATA_PATH}/PatternsOfInterest.txt" # Gene name patterns of interest. Put your keywords into this text-file
+
+# Extracting base date from name of prokka-folder. OBSERVE! The date is based on the date that the input annotation, done with prokka, was done, NOT 
+# the date this script was run.
 BASE_DATE=$(basename ${GENOMIC_ANNOTATION} "_ZS1B1-1_prokka_Curated")
 
 # Creating file for proteins with interesting names

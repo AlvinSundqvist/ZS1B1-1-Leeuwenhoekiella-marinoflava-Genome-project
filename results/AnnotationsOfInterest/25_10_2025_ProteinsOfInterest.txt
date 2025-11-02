@@ -187,9 +187,11 @@ Protein names matching pattern of interest:
 >Leeuwenhoekiella_marinoflava_02832 pectin methylesterase-like acyl-CoA thioesterase [Leeuwenhoekiella marinoflava]
 >Leeuwenhoekiella_marinoflava_03711 pectin methylesterase-like acyl-CoA thioesterase [Leeuwenhoekiella marinoflava]
 
-'galacturonic acid': 0 hits in annotated ZS1B1-1 genome
-
 'pectinase': 0 hits in annotated ZS1B1-1 genome
+
+'pectinesterase': 2 hits in annotated ZS1B1-1 genome
+>Leeuwenhoekiella_marinoflava_00298 pectinesterase family protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02830 pectinesterase [Leeuwenhoekiella marinoflava]
 
 'glycogen': 0 hits in annotated ZS1B1-1 genome
 
@@ -236,6 +238,23 @@ Protein names matching pattern of interest:
 
 'maltase': 0 hits in annotated ZS1B1-1 genome
 
+'manose': 0 hits in annotated ZS1B1-1 genome
+
+'mannosyl': 2 hits in annotated ZS1B1-1 genome
+>Leeuwenhoekiella_marinoflava_00401 dolichol-phosphate mannosyltransferase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_04142 beta-1,4-mannooligosaccharide/beta-1,4-mannosyl-N-acetylglucosamine phosphorylase [Leeuwenhoekiella marinoflava]
+
+'mannosidase': 6 hits in annotated ZS1B1-1 genome
+>Leeuwenhoekiella_marinoflava_01737 putative alpha-1,2-mannosidase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01756 putative alpha-1,2-mannosidase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01761 putative alpha-1,2-mannosidase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01762 putative alpha-1,2-mannosidase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_04139 putative alpha-1,2-mannosidase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_04144 putative alpha-1,2-mannosidase [Leeuwenhoekiella marinoflava]
+
+'mannonate': 1 hits in annotated ZS1B1-1 genome
+>Leeuwenhoekiella_marinoflava_03708 D-mannonate dehydratase [Leeuwenhoekiella marinoflava]
+
 'amylopectin': 0 hits in annotated ZS1B1-1 genome
 
 'amylose': 0 hits in annotated ZS1B1-1 genome
@@ -257,10 +276,54 @@ Protein names matching pattern of interest:
 >Leeuwenhoekiella_marinoflava_02886 galactose oxidase-like protein [Leeuwenhoekiella marinoflava]
 >Leeuwenhoekiella_marinoflava_03554 dTDP-4-amino-4,6-dideoxygalactose transaminase [Leeuwenhoekiella marinoflava]
 
+'galactosidase': 8 hits in annotated ZS1B1-1 genome
+>Leeuwenhoekiella_marinoflava_01730 beta-galactosidase/beta-glucuronidase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02264 beta-galactosidase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02274 beta-galactosidase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02755 beta-galactosidase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02778 beta-galactosidase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02780 beta-galactosidase/beta-glucuronidase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03811 beta-galactosidase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_04131 beta-galactosidase [Leeuwenhoekiella marinoflava]
+
 'galactosyl': 1 hits in annotated ZS1B1-1 genome
 >Leeuwenhoekiella_marinoflava_03184 galactosyltransferase-like protein [Leeuwenhoekiella marinoflava]
 
+'galacturon': 6 hits in annotated ZS1B1-1 genome
+>Leeuwenhoekiella_marinoflava_01713 rhamnogalacturonyl hydrolase YesR [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01720 rhamnogalacturonan endolyase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01731 rhamnogalacturonan acetylesterase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02268 rhamnogalacturonyl hydrolase YesR [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02835 unsaturated rhamnogalacturonyl hydrolase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03727 unsaturated rhamnogalacturonyl hydrolase [Leeuwenhoekiella marinoflava]
+
+'galacturonic': 0 hits in annotated ZS1B1-1 genome
+
 'galactase': 0 hits in annotated ZS1B1-1 genome
+
+'rhamnose': 5 hits in annotated ZS1B1-1 genome
+>Leeuwenhoekiella_marinoflava_01645 dTDP-4-dehydrorhamnose reductase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01647 dTDP-4-dehydrorhamnose 3,5-epimerase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01726 L-rhamnose isomerase/sugar isomerase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02748 L-rhamnose mutarotase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03739 L-rhamnose mutarotase [Leeuwenhoekiella marinoflava]
+
+'rhamnogalacturonan': 2 hits in annotated ZS1B1-1 genome
+>Leeuwenhoekiella_marinoflava_01720 rhamnogalacturonan endolyase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01731 rhamnogalacturonan acetylesterase [Leeuwenhoekiella marinoflava]
+
+'rhamnogalacturonyl': 4 hits in annotated ZS1B1-1 genome
+>Leeuwenhoekiella_marinoflava_01713 rhamnogalacturonyl hydrolase YesR [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02268 rhamnogalacturonyl hydrolase YesR [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02835 unsaturated rhamnogalacturonyl hydrolase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03727 unsaturated rhamnogalacturonyl hydrolase [Leeuwenhoekiella marinoflava]
+
+'rhamnosidase': 5 hits in annotated ZS1B1-1 genome
+>Leeuwenhoekiella_marinoflava_01712 alpha-L-rhamnosidase-like protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02759 alpha-L-rhamnosidase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02763 alpha-L-rhamnosidase-like protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02777 alpha-L-rhamnosidase-like protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02781 alpha-L-rhamnosidase-like protein [Leeuwenhoekiella marinoflava]
 
 'inulin': 0 hits in annotated ZS1B1-1 genome
 
@@ -286,6 +349,17 @@ Protein names matching pattern of interest:
 >Leeuwenhoekiella_marinoflava_02577 putative MFS family arabinose efflux permease [Leeuwenhoekiella marinoflava]
 >Leeuwenhoekiella_marinoflava_04093 4-amino-4-deoxy-L-arabinose transferase-like glycosyltransferase [Leeuwenhoekiella marinoflava]
 
+'arabinosidase': 2 hits in annotated ZS1B1-1 genome
+>Leeuwenhoekiella_marinoflava_01956 arabinan endo-1,5-alpha-L-arabinosidase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01958 arabinan endo-1,5-alpha-L-arabinosidase [Leeuwenhoekiella marinoflava]
+
+'arabinofuranosidase': 5 hits in annotated ZS1B1-1 genome
+>Leeuwenhoekiella_marinoflava_01202 beta-L-arabinofuranosidase domain-containing protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01763 beta-L-arabinofuranosidase domain-containing protein [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_01955 alpha-N-arabinofuranosidase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02345 alpha-N-arabinofuranosidase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03198 alpha-N-arabinofuranosidase [Leeuwenhoekiella marinoflava]
+
 'arabinoxylanase': 0 hits in annotated ZS1B1-1 genome
 
 'xylan': 2 hits in annotated ZS1B1-1 genome
@@ -297,12 +371,24 @@ Protein names matching pattern of interest:
 
 'xylanase': 0 hits in annotated ZS1B1-1 genome
 
+'xylosidase': 4 hits in annotated ZS1B1-1 genome
+>Leeuwenhoekiella_marinoflava_00314 GH43 family beta-xylosidase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02508 GH43 family beta-xylosidase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_02834 beta-xylosidase [Leeuwenhoekiella marinoflava]
+>Leeuwenhoekiella_marinoflava_03263 alpha-xylosidase [Leeuwenhoekiella marinoflava]
+
+'xylohydrolase': 1 hits in annotated ZS1B1-1 genome
+>Leeuwenhoekiella_marinoflava_02785 alpha-D-xyloside xylohydrolase [Leeuwenhoekiella marinoflava]
+
 'chitin': 1 hits in annotated ZS1B1-1 genome
 >Leeuwenhoekiella_marinoflava_01083 peptidoglycan/xylan/chitin deacetylase (PgdA/CDA1 family) [Leeuwenhoekiella marinoflava]
 
+'chitobiase': 1 hits in annotated ZS1B1-1 genome
+>Leeuwenhoekiella_marinoflava_01919 chitobiase/beta-hexosaminidase-like protein [Leeuwenhoekiella marinoflava]
+
 'chitosan': 0 hits in annotated ZS1B1-1 genome
 
-'chitinases': 0 hits in annotated ZS1B1-1 genome
+'chitinase': 0 hits in annotated ZS1B1-1 genome
 
 'N-acetylglucosamine': 11 hits in annotated ZS1B1-1 genome
 >Leeuwenhoekiella_marinoflava_00137 cellulose synthase/poly-beta-1,6-N-acetylglucosamine synthase-like glycosyltransferase [Leeuwenhoekiella marinoflava]
@@ -319,12 +405,6 @@ Protein names matching pattern of interest:
 
 'dolichol': 1 hits in annotated ZS1B1-1 genome
 >Leeuwenhoekiella_marinoflava_00401 dolichol-phosphate mannosyltransferase [Leeuwenhoekiella marinoflava]
-
-'manose': 0 hits in annotated ZS1B1-1 genome
-
-'mannosyl': 2 hits in annotated ZS1B1-1 genome
->Leeuwenhoekiella_marinoflava_00401 dolichol-phosphate mannosyltransferase [Leeuwenhoekiella marinoflava]
->Leeuwenhoekiella_marinoflava_04142 beta-1,4-mannooligosaccharide/beta-1,4-mannosyl-N-acetylglucosamine phosphorylase [Leeuwenhoekiella marinoflava]
 
 'sialic acid': 0 hits in annotated ZS1B1-1 genome
 
